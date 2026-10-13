@@ -309,13 +309,7 @@ swift test
 
 ## License
 
-This project is dual-licensed under:
-
-- **GNU Affero General Public License v3.0 (AGPL-3.0)** for open source projects
-  See [LICENSE](LICENSE) for details
-
-- **Commercial License** for proprietary/commercial use
-  Contact **info@coenttb.com** for licensing options
+Apache 2.0. See [LICENSE.md](LICENSE.md).
 
 ## Contributing
 
